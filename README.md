@@ -1,8 +1,5 @@
 # Utilizing Advanced LLM for Automated Software Vulnerability Detection and Remediation
 
-Summary:
-This proposal details the deployment of a cutting-edge Language Learning Model (LLM) tailored for identifying software vulnerabilities. By employing both process flow and static analysis, the LLM will scan codebases, highlight common vulnerabilities, and automatically generate and commit pull requests to address these vulnerabilities, offering a streamlined approach to software security.
-
 ---
 
 One-Year Plan:
